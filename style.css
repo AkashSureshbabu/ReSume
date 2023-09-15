@@ -1,0 +1,64 @@
+
+body, h1, h2, h3, p, ul, li, form {
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color: #124465;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.header-title {
+    font-size: 36px;
+}
+
+.header-description {
+    font-size: 18px;
+}
+
+.header-links a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.info-box {
+    border: 2px solid #3498db;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+
+.section-title {
+    font-size: 24px;
+}
+
+.info-list {
+    list-style-type: none;
+    margin-left: 20px;
+}
+
+.info-list li {
+    margin: 5px 0;
+}
+
+
+.contact-form {
+    margin: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
